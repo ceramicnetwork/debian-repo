@@ -1,0 +1,29 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+Origin: Ceramic Network 3box Labs
+Label: Ceramic Network 3box Labs Repository
+Codename: stable
+Date: Mon, 15 Jul 2024 15:20:56 UTC
+Architectures: amd64
+Components: main
+Description: Ceramic network software
+MD5Sum:
+ 19f2ee484db92faa1deca2b4beb2538f 484 main/binary-amd64/Packages
+ eaf8f9454e54aa4a3e421f971eda6161 365 main/binary-amd64/Packages.gz
+ a3598cd6b7f0017fe618ac2df03c045b 152 main/binary-amd64/Release
+SHA1:
+ 2cda7a296c77fc3b9b75cf09858d3681aeaa28a2 484 main/binary-amd64/Packages
+ 0f6046838d10ffa2e23b8b15e19750d9b89abf8d 365 main/binary-amd64/Packages.gz
+ 6dcdfda5edbab68ccd65e85de4a9c6becd5506a9 152 main/binary-amd64/Release
+SHA256:
+ 7cd074234cd96bbe77922a555dd4c60380fcf7670558aab85c2388d2a6a468d3 484 main/binary-amd64/Packages
+ 2d2a37583607c4f6847e241bb4383a9304878c6271fb411123726d603b7b1a20 365 main/binary-amd64/Packages.gz
+ fe36f0cb6cdd9f7d96cd79f24d1e40b7d3a7402a7e5a31232098ae6693821e8e 152 main/binary-amd64/Release
+-----BEGIN PGP SIGNATURE-----
+
+iHUEARYIAB0WIQQBCrPMXeuBbiY75zFG27YUIRmzGQUCZpU+WAAKCRBG27YUIRmz
+GXtXAQC3o4H33x2q6btL/vk3jIAlSEdg9L38eBbCpnkHpho04gD9G7+DtrTlt9kT
+5lquY3PvkWqJZ+zWNpSamOGJn3sv8QI=
+=RIuk
+-----END PGP SIGNATURE-----

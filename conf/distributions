@@ -1,7 +1,7 @@
 Origin: Ceramic Network 3box Labs
 Label: Ceramic Network 3box Labs Repository
 Codename: stable
-Architectures: i386 amd64 source
+Architectures: amd64
 Components: main
-Description: Description of your repository
-SignWith: YOUR_GPG_KEY_ID
+Description: Ceramic network software
+SignWith: 010AB3CC5DEB816E263BE73146DBB6142119B319
