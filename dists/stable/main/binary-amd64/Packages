@@ -1,17 +1,17 @@
 Package: ceramic-one
-Version: 0.26.0
+Version: 0.28.1
 License: mit
 Vendor: none
 Architecture: all
 Maintainer: 3Box Labs <support@3box.com>
-Installed-Size: 47446
+Installed-Size: 47242
 Homepage: https://ceramic.network
 Priority: optional
 Section: default
-Filename: pool/main/c/ceramic-one/ceramic-one_0.26.0_all.deb
-Size: 16941252
-SHA256: d504ab4e7bb0ef2cc5c9b8a78fa292ca2f82c9a809675defafa3c40558d9f59e
-SHA1: f4127c3e4e65ffcfc38bd08da6140d9b1dd40d30
-MD5sum: 2c77a8a73bbcb361a6efaba237a4b7a6
+Filename: pool/main/c/ceramic-one/ceramic-one_0.28.1_all.deb
+Size: 16951460
+SHA256: 572e4b329a8ca9da92f0ed3da135479d1f05be3d61e8a7956982a8d0c71f926a
+SHA1: d268e536ae7199a6f8f5ff0ad67de10f01e00e16
+MD5sum: 8eec62f8ba65044d3445eb6553b65242
 Description: Ceramic API Server
 
